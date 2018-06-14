@@ -4,10 +4,10 @@ import java.util.Date;
 
 public class Student {
     private String name;
-    private int level;
+    private Integer level;
     private Calendar birthday;
     private boolean sex;
-    private int ID;
+    private Integer ID;
 
     public Student(String name, int level, int year, int month, int day, boolean sex) {
         this.name = name;

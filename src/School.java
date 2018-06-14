@@ -4,7 +4,7 @@
 public class School {
 
     private String name;
-    private int ID;
+    private Integer ID;
 
     public School(String name, int ID) {
         this.name = name;
